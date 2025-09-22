@@ -95,8 +95,7 @@ This project parses and analyzes chess tournament results from a semi-structured
 
 ## Publishing & Sharing
 
-- Knit the `.Rmd` to HTML and upload to [RPubs](https://rpubs.com/) for easy sharing. -
-https://rpubs.com/tmalik03/Project1_DATA_607 
+https://rpubs.com/tmalik03/Project_1_DATA_607
 ---
 
 ## References
